@@ -1,2 +1,1 @@
-# Split-pdf-separated-by-blank-pages
-Split pdf separated by blank pages
+User manual: python "Split pdf separated by blank pages.py"
